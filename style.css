@@ -2,7 +2,7 @@
 	width: 100%;
 } 
 body {
-	background: #ff002b;
+	background: hwb(290 7% 70%);
 	margin: 0;
 	padding: 0;
 }
