@@ -17,6 +17,13 @@ width: 940px;
 	color: hotpink;
  }
 
+
+ nav a:hover {
+	color:darkblue;
+	text-decoration: underline;
+	
+ }
+
 #banner {
 	width: 100%;
 } 
